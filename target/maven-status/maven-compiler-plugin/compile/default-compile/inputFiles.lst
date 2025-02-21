@@ -1,0 +1,9 @@
+/Users/leotang/javaprojects/design_patterns/src/main/java/com/example/designpatterns/behavioral/command/Command.java
+/Users/leotang/javaprojects/design_patterns/src/main/java/com/example/designpatterns/behavioral/observer/Observer.java
+/Users/leotang/javaprojects/design_patterns/src/main/java/com/example/designpatterns/behavioral/strategy/Strategy.java
+/Users/leotang/javaprojects/design_patterns/src/main/java/com/example/designpatterns/creational/builder/Builder.java
+/Users/leotang/javaprojects/design_patterns/src/main/java/com/example/designpatterns/creational/factory/Factory.java
+/Users/leotang/javaprojects/design_patterns/src/main/java/com/example/designpatterns/creational/singleton/Singleton.java
+/Users/leotang/javaprojects/design_patterns/src/main/java/com/example/designpatterns/structural/adapter/Adapter.java
+/Users/leotang/javaprojects/design_patterns/src/main/java/com/example/designpatterns/structural/decorator/Decorator.java
+/Users/leotang/javaprojects/design_patterns/src/main/java/com/example/designpatterns/structural/proxy/Proxy.java
